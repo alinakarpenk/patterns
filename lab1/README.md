@@ -5,7 +5,7 @@ The `Enclosure`, `Food`, `Inventory`, `Animals`, and Employee classes are each r
 Adding new types of food, animals, workers, or enclosures is done without modifying existing classes
 
 ### 3.Interface Segregation Principle - ISP:
-The `[Inventory](Inventory.cs)` and `[Employee](Employee.cs)` classes use only those methods and properties of the Animals class that they need.
+The [Inventory](Inventory.cs) and [Employee](Employee.cs) classes use only those methods and properties of the Animals class that they need.
 
 ### 4. DRY:
 This principle is implemented in the code because there is no repetitive code. For example, creating animals and workers is done by calling constructors, rather than duplicating this code in each use.
