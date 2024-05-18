@@ -1,0 +1,390 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\labs\\lab4\\task1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB77384E-E283-428F-8A47-482027CAA60D}|task1.csproj|d:\\labs\\lab4\\task1\\supportmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB77384E-E283-428F-8A47-482027CAA60D}|task1.csproj|solutionrelative:supportmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB77384E-E283-428F-8A47-482027CAA60D}|task1.csproj|d:\\labs\\lab4\\task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB77384E-E283-428F-8A47-482027CAA60D}|task1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B409F59-7B01-4882-AA2F-CB4FAA43E2F7}|..\\task2\\task2.csproj|d:\\labs\\lab4\\task2\\runway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B409F59-7B01-4882-AA2F-CB4FAA43E2F7}|..\\task2\\task2.csproj|d:\\labs\\lab4\\task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B409F59-7B01-4882-AA2F-CB4FAA43E2F7}|..\\task2\\task2.csproj|d:\\labs\\lab4\\task2\\commandcentre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2E29D8-4A4D-422E-B481-65C4ADCF576E}|..\\task3\\task3.csproj|d:\\labs\\lab4\\task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E49983B-74ED-4461-A221-39E3FCFA2A5C}|..\\task5\\task5.csproj|d:\\labs\\lab4\\task5\\txtedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E49983B-74ED-4461-A221-39E3FCFA2A5C}|..\\task5\\task5.csproj|d:\\labs\\lab4\\task5\\txtdoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E49983B-74ED-4461-A221-39E3FCFA2A5C}|..\\task5\\task5.csproj|d:\\labs\\lab4\\task5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E49983B-74ED-4461-A221-39E3FCFA2A5C}|..\\task5\\task5.csproj|d:\\labs\\lab4\\task5\\memento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D1767A-5848-44E3-88D3-A4C0F4A955CC}|..\\task4\\task4.csproj|d:\\labs\\lab4\\task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D1767A-5848-44E3-88D3-A4C0F4A955CC}|..\\task4\\task4.csproj|d:\\labs\\lab4\\task4\\netimgload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D1767A-5848-44E3-88D3-A4C0F4A955CC}|..\\task4\\task4.csproj|d:\\labs\\lab4\\task4\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D1767A-5848-44E3-88D3-A4C0F4A955CC}|..\\task4\\task4.csproj|d:\\labs\\lab4\\task4\\iimageload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D1767A-5848-44E3-88D3-A4C0F4A955CC}|..\\task4\\task4.csproj|d:\\labs\\lab4\\task4\\filesysload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2E29D8-4A4D-422E-B481-65C4ADCF576E}|..\\task3\\task3.csproj|d:\\labs\\lab4\\task3\\lighthtmlextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2E29D8-4A4D-422E-B481-65C4ADCF576E}|..\\task3\\task3.csproj|d:\\labs\\lab4\\task3\\lightnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2E29D8-4A4D-422E-B481-65C4ADCF576E}|..\\task3\\task3.csproj|d:\\labs\\lab4\\task3\\lighttextnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2E29D8-4A4D-422E-B481-65C4ADCF576E}|..\\task3\\task3.csproj|d:\\labs\\lab4\\task3\\lightelementnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2E29D8-4A4D-422E-B481-65C4ADCF576E}|..\\task3\\task3.csproj|d:\\labs\\lab4\\task3\\htmlconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B409F59-7B01-4882-AA2F-CB4FAA43E2F7}|..\\task2\\task2.csproj|d:\\labs\\lab4\\task2\\aircraft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B409F59-7B01-4882-AA2F-CB4FAA43E2F7}|..\\task2\\task2.csproj|d:\\labs\\lab4\\task2\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B409F59-7B01-4882-AA2F-CB4FAA43E2F7}|..\\task2\\task2.csproj|d:\\labs\\lab4\\task2\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\labs\\lab4\\task1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\labs\\lab4\\task1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAA1wDQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T09:56:18.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SupportMenu.cs",
+              "DocumentMoniker": "D:\\labs\\lab4\\task1\\SupportMenu.cs",
+              "RelativeDocumentMoniker": "SupportMenu.cs",
+              "ToolTip": "D:\\labs\\lab4\\task1\\SupportMenu.cs",
+              "RelativeToolTip": "SupportMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T09:57:00.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Runway.cs",
+              "DocumentMoniker": "D:\\labs\\lab4\\task2\\Runway.cs",
+              "RelativeDocumentMoniker": "..\\task2\\Runway.cs",
+              "ToolTip": "D:\\labs\\lab4\\task2\\Runway.cs",
+              "RelativeToolTip": "..\\task2\\Runway.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T10:03:24.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\labs\\lab4\\task2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\task2\\Program.cs",
+              "ToolTip": "D:\\labs\\lab4\\task2\\Program.cs",
+              "RelativeToolTip": "..\\task2\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T09:58:47.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CommandCentre.cs",
+              "DocumentMoniker": "D:\\labs\\lab4\\task2\\CommandCentre.cs",
+              "RelativeDocumentMoniker": "..\\task2\\CommandCentre.cs",
+              "ToolTip": "D:\\labs\\lab4\\task2\\CommandCentre.cs",
+              "RelativeToolTip": "..\\task2\\CommandCentre.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwA8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T10:04:50.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\labs\\lab4\\task3\\Program.cs",
+              "RelativeDocumentMoniker": "..\\task3\\Program.cs",
+              "ToolTip": "D:\\labs\\lab4\\task3\\Program.cs",
+              "RelativeToolTip": "..\\task3\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T10:29:29.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TxtEdit.cs",
+              "DocumentMoniker": "D:\\labs\\lab4\\task5\\TxtEdit.cs",
+              "RelativeDocumentMoniker": "..\\task5\\TxtEdit.cs",
+              "ToolTip": "D:\\labs\\lab4\\task5\\TxtEdit.cs",
+              "RelativeToolTip": "..\\task5\\TxtEdit.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwCUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T10:18:58.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TxtDoc.cs",
+              "DocumentMoniker": "D:\\labs\\lab4\\task5\\TxtDoc.cs",
+              "RelativeDocumentMoniker": "..\\task5\\TxtDoc.cs",
+              "ToolTip": "D:\\labs\\lab4\\task5\\TxtDoc.cs",
+              "RelativeToolTip": "..\\task5\\TxtDoc.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T10:17:41.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\labs\\lab4\\task5\\Program.cs",
+              "RelativeDocumentMoniker": "..\\task5\\Program.cs",
+              "ToolTip": "D:\\labs\\lab4\\task5\\Program.cs",
+              "RelativeToolTip": "..\\task5\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T10:17:17.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Memento.cs",
+              "DocumentMoniker": "D:\\labs\\lab4\\task5\\Memento.cs",
+              "RelativeDocumentMoniker": "..\\task5\\Memento.cs",
+              "ToolTip": "D:\\labs\\lab4\\task5\\Memento.cs",
+              "RelativeToolTip": "..\\task5\\Memento.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T10:18:29.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\labs\\lab4\\task4\\Program.cs",
+              "RelativeDocumentMoniker": "..\\task4\\Program.cs",
+              "ToolTip": "D:\\labs\\lab4\\task4\\Program.cs",
+              "RelativeToolTip": "..\\task4\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAChAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T11:32:13.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NetImgLoad.cs",
+              "DocumentMoniker": "D:\\labs\\lab4\\task4\\NetImgLoad.cs",
+              "RelativeDocumentMoniker": "..\\task4\\NetImgLoad.cs",
+              "ToolTip": "D:\\labs\\lab4\\task4\\NetImgLoad.cs",
+              "RelativeToolTip": "..\\task4\\NetImgLoad.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T11:34:51.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Image.cs",
+              "DocumentMoniker": "D:\\labs\\lab4\\task4\\Image.cs",
+              "RelativeDocumentMoniker": "..\\task4\\Image.cs",
+              "ToolTip": "D:\\labs\\lab4\\task4\\Image.cs",
+              "RelativeToolTip": "..\\task4\\Image.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T11:35:05.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IImageLoad.cs",
+              "DocumentMoniker": "D:\\labs\\lab4\\task4\\IImageLoad.cs",
+              "RelativeDocumentMoniker": "..\\task4\\IImageLoad.cs",
+              "ToolTip": "D:\\labs\\lab4\\task4\\IImageLoad.cs",
+              "RelativeToolTip": "..\\task4\\IImageLoad.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T11:34:02.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FileSysLoad.cs",
+              "DocumentMoniker": "D:\\labs\\lab4\\task4\\FileSysLoad.cs",
+              "RelativeDocumentMoniker": "..\\task4\\FileSysLoad.cs",
+              "ToolTip": "D:\\labs\\lab4\\task4\\FileSysLoad.cs",
+              "RelativeToolTip": "..\\task4\\FileSysLoad.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T11:34:34.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LightNode.cs",
+              "DocumentMoniker": "D:\\labs\\lab4\\task3\\LightNode.cs",
+              "RelativeDocumentMoniker": "..\\task3\\LightNode.cs",
+              "ToolTip": "D:\\labs\\lab4\\task3\\LightNode.cs",
+              "RelativeToolTip": "..\\task3\\LightNode.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T10:32:43.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LightHtmlExtensions.cs",
+              "DocumentMoniker": "D:\\labs\\lab4\\task3\\LightHtmlExtensions.cs",
+              "RelativeDocumentMoniker": "..\\task3\\LightHtmlExtensions.cs",
+              "ToolTip": "D:\\labs\\lab4\\task3\\LightHtmlExtensions.cs",
+              "RelativeToolTip": "..\\task3\\LightHtmlExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T10:30:03.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LightTextNode.cs",
+              "DocumentMoniker": "D:\\labs\\lab4\\task3\\LightTextNode.cs",
+              "RelativeDocumentMoniker": "..\\task3\\LightTextNode.cs",
+              "ToolTip": "D:\\labs\\lab4\\task3\\LightTextNode.cs",
+              "RelativeToolTip": "..\\task3\\LightTextNode.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T10:34:25.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LightElementNode.cs",
+              "DocumentMoniker": "D:\\labs\\lab4\\task3\\LightElementNode.cs",
+              "RelativeDocumentMoniker": "..\\task3\\LightElementNode.cs",
+              "ToolTip": "D:\\labs\\lab4\\task3\\LightElementNode.cs",
+              "RelativeToolTip": "..\\task3\\LightElementNode.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T10:29:48.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HtmlConverter.cs",
+              "DocumentMoniker": "D:\\labs\\lab4\\task3\\HtmlConverter.cs",
+              "RelativeDocumentMoniker": "..\\task3\\HtmlConverter.cs",
+              "ToolTip": "D:\\labs\\lab4\\task3\\HtmlConverter.cs",
+              "RelativeToolTip": "..\\task3\\HtmlConverter.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T10:35:36.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Aircraft.cs",
+              "DocumentMoniker": "D:\\labs\\lab4\\task2\\Aircraft.cs",
+              "RelativeDocumentMoniker": "..\\task2\\Aircraft.cs",
+              "ToolTip": "D:\\labs\\lab4\\task2\\Aircraft.cs",
+              "RelativeToolTip": "..\\task2\\Aircraft.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA3wAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T10:01:58.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\labs\\lab4\\task2\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "..\\task2\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "D:\\labs\\lab4\\task2\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "..\\task2\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T10:08:06.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\labs\\lab4\\task2\\App.config",
+              "RelativeDocumentMoniker": "..\\task2\\App.config",
+              "ToolTip": "D:\\labs\\lab4\\task2\\App.config",
+              "RelativeToolTip": "..\\task2\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-18T10:07:51.69Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
